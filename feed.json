@@ -57,14 +57,14 @@
             "url": "https://123vuphuc.github.io/myblog/home.html",
             "title": "HOME",
             "summary": "My Prolife Xin chào, Tôi tên là: Vũ Trần Hoàng Phúc Trường: Đại học Công Nghệ thành phố Hồ Chí Minh Năm 4 ngành An ninh mạng Lớp: 21DTHD1 Sở thích: Sưu tầm đồ vật có giá trị cao Sở thích :Thích động vật chó,chơi&hellip;",
-            "content_html": "<p><strong>My Prolife</strong></p>\n<p> </p>\n<p class=\"align-center\"> </p>\n<p>Xin chào,</p>\n<p>Tôi tên là: Vũ Trần Hoàng Phúc</p>\n<p>Trường: Đại học Công Nghệ thành phố Hồ Chí Minh</p>\n<p>Năm 4 ngành An ninh mạng</p>\n<p>Lớp: 21DTHD1</p>\n<p>Sở thích: Sưu tầm đồ vật có giá trị cao</p>\n<p>Sở thích :Thích động vật chó,chơi cờ vua, đọc sách lịch sử, ...</p>\n<p>Các Trang khác:</p>\n<p><a href=\"https://123vuphuc.github.io/myblog/blog.html\" target=\"_blank\" rel=\"noopener noreferrer\">BLOG                                         </a><a href=\"https://123vuphuc.github.io/myblog/achiement.html\" target=\"_blank\" rel=\"noopener noreferrer\">ACHIEMENT                                     </a><a href=\"https://123vuphuc.github.io/myblog/about-me.html\" target=\"_blank\" rel=\"noopener noreferrer\">ABOUT ME</a></p>\n<p> </p>",
+            "content_html": "<p><strong>My Prolife</strong></p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://123vuphuc.github.io/myblog/media/posts/1/z6063678157917_300f12dc690519a1006c5ef6099a2fa4.jpg\" alt=\"\" width=\"300\" height=\"300\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-xs.jpg 640w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-sm.jpg 768w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-md.jpg 1024w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-lg.jpg 1366w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-xl.jpg 1600w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-2xl.jpg 1920w\"></figure>\n<p>Xin chào,</p>\n<p>Tôi tên là: Vũ Trần Hoàng Phúc</p>\n<p>Trường: Đại học Công Nghệ thành phố Hồ Chí Minh</p>\n<p>Năm 4 ngành An ninh mạng</p>\n<p>Lớp: 21DTHD1</p>\n<p>Sở thích: Sưu tầm đồ vật có giá trị cao</p>\n<p>Sở thích :Thích động vật chó,chơi cờ vua, đọc sách lịch sử, ...</p>\n<p>Các Trang khác:</p>\n<p><a href=\"https://123vuphuc.github.io/myblog/blog.html\" target=\"_blank\" rel=\"noopener noreferrer\">BLOG                                         </a><a href=\"https://123vuphuc.github.io/myblog/achiement.html\" target=\"_blank\" rel=\"noopener noreferrer\">ACHIEMENT                                     </a><a href=\"https://123vuphuc.github.io/myblog/about-me.html\" target=\"_blank\" rel=\"noopener noreferrer\">ABOUT ME</a></p>\n<p> </p>",
             "author": {
                 "name": "Vũ Trần Hoàng Phúc"
             },
             "tags": [
             ],
             "date_published": "2024-12-29T10:52:17+07:00",
-            "date_modified": "2025-01-03T11:52:37+07:00"
+            "date_modified": "2025-01-07T13:10:33+07:00"
         }
     ]
 }

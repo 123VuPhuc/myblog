@@ -3,7 +3,7 @@
     <title>Blog của tôi</title>
     <link href="https://123vuphuc.github.io/myblog/feed.xml" rel="self" />
     <link href="https://123vuphuc.github.io/myblog" />
-    <updated>2025-01-07T11:06:41+07:00</updated>
+    <updated>2025-01-07T13:10:33+07:00</updated>
     <author>
         <name>Vũ Trần Hoàng Phúc</name>
     </author>
@@ -120,7 +120,7 @@
             <![CDATA[
                 <p><strong>My Prolife</strong></p>
 <p> </p>
-<p class="align-center"> </p>
+<figure class="post__image"><img loading="lazy"  src="https://123vuphuc.github.io/myblog/media/posts/1/z6063678157917_300f12dc690519a1006c5ef6099a2fa4.jpg" alt="" width="300" height="300" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-xs.jpg 640w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-sm.jpg 768w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-md.jpg 1024w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-lg.jpg 1366w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-xl.jpg 1600w ,https://123vuphuc.github.io/myblog/media/posts/1/responsive/z6063678157917_300f12dc690519a1006c5ef6099a2fa4-2xl.jpg 1920w"></figure>
 <p>Xin chào,</p>
 <p>Tôi tên là: Vũ Trần Hoàng Phúc</p>
 <p>Trường: Đại học Công Nghệ thành phố Hồ Chí Minh</p>
